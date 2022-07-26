@@ -8,7 +8,7 @@ from aiogram.types import InlineKeyboardButton
 
 import start_model
 
-TOKEN = "5168452221:AAHl8JjoqDkvC6YiYSyr2dRciFEdZSxs4-Q"
+TOKEN = "U_TOKEN_HERE"
 users = {}
 bot = Bot(token=TOKEN)
 dp = Dispatcher(bot)
